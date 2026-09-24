@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**ibcsz12/ibcsz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media1.tenor.com/m/XhiRvTnsQXQAAAAd/loopwalk-loop.gif" style="border-radius: 10px;"/></br>
+  <b>Reverse engineering, python, c#</b>
+</div>
 
-Here are some ideas to get you started:
+## Who I am?
+I'm keen on pogramming and cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+- <a href="https://github.com/J0nathan550/Source2Viewer-d2pfx">🕵️‍♂️ Better source2viewer (im in role contributor)</a>
+- <a href="https://github.com/ibcsz12/Endless-Loader-csgo">🎤 CS:GO loader for nl and primordial</a>
+
+## My Social
+<a href="https://t.me/nixwaretop"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+Discord: ibcsz.
+<a href="https://guns.lol/ibcsz"><img src="https://img.shields.io/badge/bio-gray?style=for-the-badge"></a>
+
+
