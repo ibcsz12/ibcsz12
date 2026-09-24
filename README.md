@@ -4,7 +4,7 @@
   <b>Reverse engineering, python, c#</b>
 </div>
 
-## Who I am?
+## Who am I?
 I'm keen on pogramming and cybersecurity
 
 ## My projects
