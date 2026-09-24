@@ -12,8 +12,9 @@ I'm keen on pogramming and cybersecurity
 - <a href="https://github.com/ibcsz12/Endless-Loader-csgo">🕹️ CS:GO loader for nl and primordial</a>
 
 ## My Social
-<a href="https://t.me/nixwaretop"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-Discord: ibcsz.
-<a href="https://guns.lol/ibcsz"><img src="https://img.shields.io/badge/bio-gray?style=for-the-badge"></a>
+- <a href="https://t.me/nixwaretop"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+- 🎮 **Discord:** `ibcsz.`
+- <a href="https://guns.lol/ibcsz"><img src="https://img.shields.io/badge/bio-gray?style=for-the-badge"></a>
+
 
 
