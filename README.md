@@ -10,6 +10,7 @@ I'm keen on pogramming and cybersecurity
 ## My projects
 - <a href="https://github.com/J0nathan550/Source2Viewer-d2pfx">🕵️‍♂️ Better source2viewer (im in role contributor)</a>
 - <a href="https://github.com/ibcsz12/Endless-Loader-csgo">🕹️ CS:GO loader for nl and primordial</a>
+- <a href="https://github.com/ibcsz12/SPBplus-dnevnik">🎓 Diary client for Saint Petersburg schools</a>
 
 ## My Social
 - <a href="https://t.me/nixwaretop"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
